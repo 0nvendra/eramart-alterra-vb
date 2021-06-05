@@ -1,0 +1,17 @@
+c:\users\asus\documents\visual studio 2012\Projects\eramart-alterra\eramart-alterra\bin\Debug\eramart-alterra.exe.config
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\eramart-alterra\eramart-alterra\bin\Debug\eramart-alterra.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\eramart-alterra\eramart-alterra\bin\Debug\eramart-alterra.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\eramart-alterra\eramart-alterra\bin\Debug\eramart-alterra.xml
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\eramart-alterra\eramart-alterra\obj\Debug\eramart_alterra.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\eramart-alterra\eramart-alterra\obj\Debug\eramart_alterra.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\eramart-alterra\eramart-alterra\obj\Debug\eramart-alterra.vbproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\eramart-alterra\eramart-alterra\obj\Debug\eramart-alterra.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\eramart-alterra\eramart-alterra\obj\Debug\eramart-alterra.xml
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\eramart-alterra\eramart-alterra\obj\Debug\eramart-alterra.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\eramart-alterra\eramart-alterra\obj\Debug\eramart-alterra.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\eramart-alterra\eramart-alterra\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\eramart-alterra\eramart-alterra\bin\Debug\Newtonsoft.Json.xml
+C:\Project\eramart-alterra-vb\eramart-alterra\bin\Debug\eramart-alterra.exe.config
+C:\Project\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart-alterra.exe
+C:\Project\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart-alterra.xml
+C:\Project\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart-alterra.pdb
