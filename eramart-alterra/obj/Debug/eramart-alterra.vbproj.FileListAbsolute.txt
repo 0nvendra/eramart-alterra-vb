@@ -15,3 +15,16 @@ C:\Project\eramart-alterra-vb\eramart-alterra\bin\Debug\eramart-alterra.exe.conf
 C:\Project\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart-alterra.exe
 C:\Project\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart-alterra.xml
 C:\Project\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart-alterra.pdb
+C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\bin\Debug\eramart-alterra.exe.config
+C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart-alterra.exe
+C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart-alterra.xml
+C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart-alterra.pdb
+C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\bin\Debug\eramart-alterra.exe
+C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\bin\Debug\eramart-alterra.pdb
+C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\bin\Debug\eramart-alterra.xml
+C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\bin\Debug\Newtonsoft.Json.dll
+C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\bin\Debug\Newtonsoft.Json.xml
+C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart-alterra.vbprojResolveAssemblyReference.cache
+C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart_alterra.form1.resources
+C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart_alterra.Resources.resources
+C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart-alterra.vbproj.GenerateResource.Cache
