@@ -81,10 +81,70 @@
       <DependentUpon>Form1.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form\Form2.Designer.vb">
-      <DependentUpon>Form2.vb</DependentUpon>
+    <Compile Include="Form\E-Wallet\Wallet.Designer.vb">
+      <DependentUpon>Wallet.vb</DependentUpon>
     </Compile>
-    <Compile Include="Form\Form2.vb">
+    <Compile Include="Form\E-Wallet\Wallet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Internet\ModalVerif.Designer.vb">
+      <DependentUpon>ModalVerif.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Internet\ModalVerif.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Internet\Internet.Designer.vb">
+      <DependentUpon>Internet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Internet\Internet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\ListrikPLN\PascabayarPLN.Designer.vb">
+      <DependentUpon>PascabayarPLN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\ListrikPLN\PascabayarPLN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\ListrikPLN\PrabayarPLN.Designer.vb">
+      <DependentUpon>PrabayarPLN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\ListrikPLN\PrabayarPLN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\MainMenu.Designer.vb">
+      <DependentUpon>MainMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\MainMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\PulsaDanPaket\paket.Designer.vb">
+      <DependentUpon>paket.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\PulsaDanPaket\paket.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\PulsaDanPaket\PulsaPrabayar.Designer.vb">
+      <DependentUpon>PulsaPrabayar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\PulsaDanPaket\PulsaPrabayar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\PulsaDanPaket\PulsaPasca.Designer.vb">
+      <DependentUpon>PulsaPasca.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\PulsaDanPaket\PulsaPasca.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Riwayat\Riwayat.Designer.vb">
+      <DependentUpon>Riwayat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Riwayat\Riwayat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Voucher\Voucher.Designer.vb">
+      <DependentUpon>Voucher.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Voucher\Voucher.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Module\Module1.vb" />
@@ -108,8 +168,38 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form\Form2.resx">
-      <DependentUpon>Form2.vb</DependentUpon>
+    <EmbeddedResource Include="Form\E-Wallet\Wallet.resx">
+      <DependentUpon>Wallet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Internet\Internet.resx">
+      <DependentUpon>Internet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Internet\ModalVerif.resx">
+      <DependentUpon>ModalVerif.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\ListrikPLN\PascabayarPLN.resx">
+      <DependentUpon>PascabayarPLN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\ListrikPLN\PrabayarPLN.resx">
+      <DependentUpon>PrabayarPLN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\MainMenu.resx">
+      <DependentUpon>MainMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\PulsaDanPaket\paket.resx">
+      <DependentUpon>paket.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\PulsaDanPaket\PulsaPrabayar.resx">
+      <DependentUpon>PulsaPrabayar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\PulsaDanPaket\PulsaPasca.resx">
+      <DependentUpon>PulsaPasca.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Riwayat\Riwayat.resx">
+      <DependentUpon>Riwayat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Voucher\Voucher.resx">
+      <DependentUpon>Voucher.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>

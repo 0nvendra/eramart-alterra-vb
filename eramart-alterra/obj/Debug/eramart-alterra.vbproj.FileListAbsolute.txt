@@ -28,3 +28,14 @@ C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart-alterra.
 C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart_alterra.form1.resources
 C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart_alterra.Resources.resources
 C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart-alterra.vbproj.GenerateResource.Cache
+C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart_alterra.mainMenu.resources
+C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart_alterra.paket.resources
+C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart_alterra.PulsaPrabayar.resources
+C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart_alterra.PulsaPasca.resources
+C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart_alterra.Internet.resources
+C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart_alterra.PascabayarPLN.resources
+C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart_alterra.PrabayarPLN.resources
+C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart_alterra.Voucher.resources
+C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart_alterra.Riwayat.resources
+C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart_alterra.Wallet.resources
+C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart_alterra.ModalVerif.resources
