@@ -87,12 +87,6 @@
     <Compile Include="Form\E-Wallet\Wallet.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form\Internet\ModalVerif.Designer.vb">
-      <DependentUpon>ModalVerif.vb</DependentUpon>
-    </Compile>
-    <Compile Include="Form\Internet\ModalVerif.vb">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Include="Form\Internet\Internet.Designer.vb">
       <DependentUpon>Internet.vb</DependentUpon>
     </Compile>
@@ -173,9 +167,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form\Internet\Internet.resx">
       <DependentUpon>Internet.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Form\Internet\ModalVerif.resx">
-      <DependentUpon>ModalVerif.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form\ListrikPLN\PascabayarPLN.resx">
       <DependentUpon>PascabayarPLN.vb</DependentUpon>

@@ -38,4 +38,3 @@ C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart_alterra.
 C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart_alterra.Voucher.resources
 C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart_alterra.Riwayat.resources
 C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart_alterra.Wallet.resources
-C:\EramartAlteraVB\eramart-alterra-vb\eramart-alterra\obj\Debug\eramart_alterra.ModalVerif.resources
